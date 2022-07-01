@@ -1,4 +1,4 @@
-package com.upchiapas.Veterinaria.Models;
+package com.upchiapas.Veterinaria.Models.;
 
 public class Medicamentos extends Producto{
 }
